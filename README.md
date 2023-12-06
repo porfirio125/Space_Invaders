@@ -21,7 +21,7 @@
 <h1 align="center"> PROYECTO: SPACE INVADERS </h1>
 
 ###
-<h2 align="center"> DESARROLLADORES:
+<h2 align="left"> DESARROLLADORES:
 <br> 
 1. Wilson Porfirio Samo Mamani
   <br> 
@@ -34,4 +34,3 @@
 5. Cecelia Lisbeth Sosa Checalla
   <br> 
 </h2>
-###
